@@ -208,7 +208,7 @@
     "socket.io-client": "^4.8.3",
     "supertest": "^7.2.2",
     "tsx": "^4.23.12",
-    "typescript": "^4.8.4",
+    "typescript": "^6.0.3",
     "typescript-eslint": "^8.67.0"
   },
   "engines": {
